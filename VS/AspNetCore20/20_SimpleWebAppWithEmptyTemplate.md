@@ -1,5 +1,10 @@
 # Contexts and Frequency
 
+	| ProjectTargetFrameworks      | Framework Version     | Frequency |
+	| ASP.NET Core Web Application | (.NET Core) 2.0       | Always    |
+	| ASP.NET Core Web Application | (.NET Framework)	2.0  | Nightly   |
+
+
 # Walkthrough
 
 ### 1. Create project with Empty template
