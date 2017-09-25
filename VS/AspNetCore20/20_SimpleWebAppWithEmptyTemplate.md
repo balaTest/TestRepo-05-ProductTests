@@ -1,9 +1,26 @@
 # Contexts and Frequency
 
-	| ProjectTargetFrameworks      | Framework Version     | Frequency |
-	| ASP.NET Core Web Application | (.NET Core) 2.0       | Always    |
-	| ASP.NET Core Web Application | (.NET Framework)	2.0  | Nightly   |
-
+<table>
+    <thead>
+    <tr>
+        <th>ProjectTargetFrameworks</th>
+        <th>Framework Version</th>
+        <th>Frequency</th> 
+    </tr>	
+    </thead>    
+    <tbody>
+    <tr>
+        <td>ASP.NET Core Web Application</td>
+	<td>ASP.NET Core 2.0 (.NET Core)</td>
+	<td>Always</td>
+    </tr>
+    <tr>
+        <td>ASP.NET Core Web Application</td>
+	<td>ASP.NET Core 2.0 (.NET Framework)</td>
+	<td>Nightly</td>
+    </tr>
+    </tbody>
+</table>
 
 # Walkthrough
 
