@@ -1,7 +1,7 @@
 This page shows the set of Manual Tests listed by category
 
 # All Manual Tests 
-- [EveryBuild Tests]()
+- [EveryBuild Tests](#everybuild-tests)
 - [Nightly Tests]()
 - [Weekly Tests]()
 - [Monthly Tests]()
